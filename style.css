@@ -30,7 +30,7 @@ body {
   background: url("immagini/sfondo.jpg") no-repeat;
   background-size: cover;
   background-position: center;
-  height: 720px;
+  height: 500px;
   display: flex;
   flex-direction:column;
   align-items: center;
@@ -122,10 +122,15 @@ body {
   width: 100%;
 }
 .sfondo-testo {
-  padding: 20px;
+  padding: 0px 50px 20px 600px;
   background: url("immagini/sfondo-testo.jpg") no-repeat;
   background-size: cover;
   background-position: center;
-  height: 700px;
-  color: #fff;
+  text-align: justify;
+  color: white;
+  font-size: 20px;
+}
+.sfondo-testo .posizione {
+  padding: 20px;
+  position: center;
 }
