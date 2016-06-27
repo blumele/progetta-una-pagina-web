@@ -96,6 +96,7 @@ body {
 .contenuti-recensione .blocco-paragrafo p {
   font-family: georgia;
   text-align: justify;
+  line-height: 25px;
 }
 .contenuti-recensione .blocco-paragrafo p em {
   font-weight: bold;
@@ -108,7 +109,7 @@ body {
 .contenuti-recensione .blocco-paragrafo .evidenza {
   font-size: 20px;
   color: #009688;
-  line-height: 25px;
+  line-height: 35px;
 }
 .contenuti-recensione .blocco-immagine {
   background-color: white;
@@ -129,8 +130,11 @@ body {
   text-align: justify;
   color: white;
   font-size: 20px;
+  font-family: georgia;
 }
 .sfondo-testo .posizione {
   padding: 20px;
-  position: center;
+}
+.sfondo-testo .posizione p {
+  line-height: 30px;
 }
