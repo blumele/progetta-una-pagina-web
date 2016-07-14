@@ -85,6 +85,7 @@ body {
   font-weight: bold;
 }
 .contenuti-recensione {
+  flex: 1;
   margin-left: 40px;
   box-shadow: 0px 0px 10px #444231;
 }
