@@ -138,3 +138,12 @@ body {
 .sfondo-testo .posizione p {
   line-height: 30px;
 }
+.conclusioni {
+  padding: 20px 50px 20px 50px;
+  background-color: #fed060;
+}
+.conclusioni h1 {
+  padding-bottom: 20px;
+  color: #E009A4;
+  text-align: justify;
+}
